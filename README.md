@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://orpheane.github.io/">
-    <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/orpheane-neon-studio.svg" width="100%" alt="Orpheane creative studio - neon pink computers, cherry blossoms, and a black cat">
+    <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/orpheane-banner.webp" width="100%" alt="Orpheane working at her computer in a pink-lit studio, with headphones and a sleeping black cat">
   </a>
 </div>
 
@@ -12,35 +12,30 @@
 
 <sub>💗 CREATIVE DEVELOPER &nbsp; | &nbsp; INDIE MAKER &nbsp; | &nbsp; DIGITAL ARTIST</sub>
 
-<table>
-<tr>
-<td width="68%" valign="top">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/orpheane-about.webp" width="100%" alt="A creative mind at work: Orpheane blends art, imagination and technology. Creative ideas, thoughtful design, personal technology and playful experiences on a violet cherry-blossom background.">
+</div>
+
+<div align="center">
+  <a href="https://orpheane.github.io/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-EC70AA?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="#selected-projects"><img alt="View my projects" src="https://img.shields.io/badge/View_my_projects-242036?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
+<details>
+<summary>Read my introduction</summary>
 
 I'm a creative mind who loves turning ideas into things people can actually use. I blend **art, imagination, and technology** to create useful tools, browser extensions, web experiences, and playful digital projects.
 
 My journey started with music, photography, and visual design. Today, I learn by building, experimenting, and exploring AI-assisted development. I care about thoughtful details, intuitive interfaces, and projects with their own personality.
 
-<a href="https://orpheane.github.io/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-EC70AA?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-<a href="#selected-projects"><img alt="View my projects" src="https://img.shields.io/badge/View_my_projects-242036?style=for-the-badge&logo=github&logoColor=white"></a>
+- **Creative ideas** - That solve real problems
+- **Thoughtful design** - In every detail
+- **Personal technology** - Built with curiosity
+- **Playful experiences** - Made to feel enjoyable
 
-</td>
-<td width="32%" valign="top">
+</details>
 
-**♡ Creative ideas**  
-<sub>That solve real problems</sub>
-
-**✧ Thoughtful design**  
-<sub>In every detail</sub>
-
-**⌘ Personal technology**  
-<sub>Built with curiosity</sub>
-
-**☆ Playful experiences**  
-<sub>Made to feel enjoyable</sub>
-
-</td>
-</tr>
-</table>
+<a id="selected-projects"></a>
 
 ## 🌸 Selected projects
 
@@ -105,7 +100,7 @@ A collaborative web platform connected to a Discord bot (Owner: **[toskaman](htt
 <br>
 
 <a href="https://orpheane.github.io/">
-  <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/creative-footer.svg" width="100%" alt="Art. Design. Create. - technology should feel beautiful, intuitive and meaningful">
+  <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/orpheane-footer-with-text.webp" width="100%" alt="Art. Design. Create. A pink cat, the creative motto and a link to explore Orpheane's portfolio">
 </a>
 
 <div align="center">
