@@ -93,7 +93,7 @@ A collaborative web platform connected to a Discord bot (Owner: **[toskaman](htt
 
 **Web app | Community**
 
-[Explore the project](https://orpheane.github.io/#projects)
+[Visit Rifty](https://rifty.duckdns.org:8443/) | [Explore the project](https://orpheane.github.io/#projects)
 
 </td>
 </tr>
