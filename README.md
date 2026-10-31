@@ -1,24 +1,20 @@
 <div align="center">
 
-# Hi, I'm Orpheane!
+# Hello, fellow developers! :)
+
+### My name is Orpheane
 
 **Creative Developer | Indie Maker | Digital Artist**
 
-### Art. Design. Create.
-
-*Turning imagination into experiences that feel alive and unique.*
-
-[Explore my portfolio](https://orpheane.github.io/) | [My GitHub](https://github.com/Orpheane)
+*Art. Design. Create.*
 
 </div>
 
 ## About me
 
-I'm a creative mind who loves turning ideas into something real.
+I'm a creative mind who loves turning ideas into things people can actually use. Art has always been part of my world, from music and photography to digital design. Today, I bring that creativity into browser extensions, web apps, and playful digital experiences.
 
-Art has always been part of my life, from music and photography to digital design. Today I combine creativity, technology, and AI-assisted development to build useful tools, playful experiences, and projects with a personality of their own.
-
-I learn by experimenting, creating, and refining the little details. I believe technology should not only work well, but also feel good to use.
+I learn by building, experimenting, and exploring AI-assisted development. I care about intuitive interfaces, thoughtful details, and making technology feel more personal and enjoyable.
 
 ## Selected projects
 
@@ -61,20 +57,15 @@ I learn by experimenting, creating, and refining the little details. I believe t
   </tr>
 </table>
 
-## What I enjoy creating
+## My creative philosophy
 
-- Browser extensions that make everyday life easier
-- Friendly, intuitive interfaces with thoughtful details
-- Creative digital projects that combine art and functionality
-- Tools and experiences designed around real people
+*I believe technology should not only work well. It should feel good to use.*
 
-## Explore more
-
-Some of my projects are public, while others are personal experiments or works in progress. You can find more of my creative work, including design projects and unpublished tools, on my portfolio.
-
-**[Visit orpheane.github.io](https://orpheane.github.io/)**
+Every project is an opportunity to give an idea its own personality. You can discover more of my creations, designs, and experiments on my portfolio.
 
 <div align="center">
+
+**[Explore my creative portfolio](https://orpheane.github.io/)**
 
 *Made with imagination, curiosity, and a little bit of code.*
 
