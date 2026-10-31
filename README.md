@@ -10,7 +10,7 @@
 
 **My name is Orpheane**
 
-<sub>💗 CREATIVE DEVELOPER &nbsp; | &nbsp; INDIE MAKER &nbsp; | &nbsp; DIGITAL ARTIST</sub>
+**💗 Creative Developer | Indie Maker | Digital Artist**
 
 <br>
 
@@ -22,23 +22,22 @@ I'm a creative mind who loves turning ideas into things people can actually use.
 
 My journey started with music, photography, and visual design. Today, I learn by building, experimenting, and exploring AI-assisted development. I care about thoughtful details, intuitive interfaces, and projects with their own personality.
 
-<a href="https://orpheane.github.io/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-EC70AA?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-<a href="#selected-projects"><img alt="View my projects" src="https://img.shields.io/badge/View_my_projects-242036?style=for-the-badge&logo=github&logoColor=white"></a>
+**[Explore my portfolio](https://orpheane.github.io/)** · **[View my projects](#selected-projects)**
 
 </td>
 <td width="32%" valign="top">
 
 **♡ Creative ideas**  
-<sub>That solve real problems</sub>
+That solve real problems
 
 **✧ Thoughtful design**  
-<sub>In every detail</sub>
+In every detail
 
 **⌘ Personal technology**  
-<sub>Built with curiosity</sub>
+Built with curiosity
 
 **☆ Playful experiences**  
-<sub>Made to feel enjoyable</sub>
+Made to feel enjoyable
 
 </td>
 </tr>
@@ -48,7 +47,7 @@ My journey started with music, photography, and visual design. Today, I learn by
 
 ## 🌸 Selected projects
 
-<sub>A few things I've created with curiosity, care, and a love for beautiful everyday experiences.</sub>
+A few things I've created with curiosity, care, and a love for beautiful everyday experiences.
 
 <table>
 <tr>
@@ -58,11 +57,11 @@ My journey started with music, photography, and visual design. Today, I learn by
 
 **[Perfect Ear EQ](https://github.com/Orpheane/perfect-ear-eq)**
 
-*Your sound. Your way.*
+Your sound. Your way.
 
 A free Chrome audio extension with real-time equalization, presets, and personalized listening controls.
 
-<sub>🎵 AUDIO &nbsp; · &nbsp; CHROME EXTENSION</sub>
+**Audio | Chrome extension**
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi) · [GitHub](https://github.com/Orpheane/perfect-ear-eq)
 
@@ -73,11 +72,11 @@ A free Chrome audio extension with real-time equalization, presets, and personal
 
 **[Cozy Aquarium](https://github.com/Orpheane/cozy-aquarium)**
 
-*Productivity in a peaceful underwater world.*
+Productivity in a peaceful underwater world.
 
 A cozy extension that makes daily tasks more motivating through gentle gamification.
 
-<sub>🐠 PRODUCTIVITY &nbsp; · &nbsp; GAMIFICATION</sub>
+**Productivity | Gamification**
 
 [Chrome Web Store (coming soon)](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm) · [GitHub](https://github.com/Orpheane/cozy-aquarium)
 
@@ -88,11 +87,11 @@ A cozy extension that makes daily tasks more motivating through gentle gamificat
 
 **Rifty**
 
-*Community, web, and Discord together.*
+Community, web, and Discord together.
 
 A collaborative web platform connected to a Discord bot (Owner: **[toskaman](https://github.com/toskaman/)**), bringing community features into one interactive experience.
 
-<sub>💻 WEB APP &nbsp; · &nbsp; COMMUNITY</sub>
+**Web app | Community**
 
 [Explore the project](https://orpheane.github.io/#projects)
 
@@ -113,5 +112,5 @@ A collaborative web platform connected to a Discord bot (Owner: **[toskaman](htt
 </a>
 
 <div align="center">
-  <sub>Made with imagination, curiosity, and a little bit of code. ♡</sub>
+  Made with imagination, curiosity, and a little bit of code. ♡
 </div>
