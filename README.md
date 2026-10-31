@@ -85,7 +85,7 @@ A cozy extension that makes daily tasks more motivating through gentle gamificat
 
 <a href="https://orpheane.github.io/#projects"><img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/rifty.png" width="220" alt="Rifty - real web platform screenshot"></a>
 
-**Rifty**
+**[Rifty](https://rifty.duckdns.org:8443/)**
 
 Community, web, and Discord together.
 
@@ -93,7 +93,7 @@ A collaborative web platform connected to a Discord bot (Owner: **[toskaman](htt
 
 **Web app | Community**
 
-[Visit Rifty](https://rifty.duckdns.org:8443/) | [Explore the project](https://orpheane.github.io/#projects)
+[Explore the project](https://orpheane.github.io/#projects)
 
 </td>
 </tr>
