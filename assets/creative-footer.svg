@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-label="Art. Design. Create. - Orpheane">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#29182e"/><stop offset="1" stop-color="#101627"/></linearGradient><linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ffd1ea"/><stop offset="1" stop-color="#f181b7"/></linearGradient></defs>
+<rect width="1200" height="132" rx="16" fill="url(#bg)" stroke="#dc70a7" stroke-width="2"/>
+<g transform="translate(50 22)"><path d="M20 57C4 44 9 25 22 18L30 5L43 24 Q61 15 80 24L93 5L101 26Q110 65 72 77Q33 90 20 57Z" fill="#f29fc6" stroke="#ffcae5" stroke-width="3"/><path d="M38 49q6-9 13 0m24 0q6-9 13 0" stroke="#62344e" fill="none" stroke-width="3" stroke-linecap="round"/><path d="M60 55l6 4 6-4" fill="#74445d"/></g>
+<text x="175" y="59" font-size="37" font-family="Georgia,serif" font-style="italic" fill="url(#tx)">Art. Design. Create.</text>
+<text x="175" y="91" font-size="18" font-family="Verdana,sans-serif" fill="#f3dce8">Technology should feel beautiful, intuitive and meaningful.</text>
+<g fill="#ffd8eb"><path d="M1094 39 l5 11 11 5 -11 5 -5 11 -5 -11 -11 -5 11 -5z"/><path d="M1043 79l4 7 7 4 -7 4 -4 7 -4 -7 -7 -4 7 -4z"/></g>
+</svg>
