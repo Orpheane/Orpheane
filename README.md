@@ -69,9 +69,9 @@ A free Chrome audio extension with real-time equalization, presets, and personal
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://groups.google.com/g/cozy-aquarium"><img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/cozy_aquarium.jpg" width="220" alt="Cozy Aquarium - real app screenshot"></a>
+<a href="https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm"><img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/cozy_aquarium.jpg" width="220" alt="Cozy Aquarium - real app screenshot"></a>
 
-**Cozy Aquarium**
+**[Cozy Aquarium](https://github.com/Orpheane/cozy-aquarium)**
 
 *Productivity in a peaceful underwater world.*
 
@@ -79,7 +79,7 @@ A cozy extension that makes daily tasks more motivating through gentle gamificat
 
 <sub>🐠 PRODUCTIVITY &nbsp; · &nbsp; GAMIFICATION</sub>
 
-[Become a tester](https://groups.google.com/g/cozy-aquarium) · [Learn more](https://orpheane.github.io/#projects)
+[Chrome Web Store (coming soon)](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm) · [GitHub](https://github.com/Orpheane/cozy-aquarium)
 
 </td>
 <td width="33%" valign="top" align="center">
