@@ -22,39 +22,44 @@ I learn by experimenting, creating, and refining the little details. I believe t
 
 ## Selected projects
 
-### Perfect Ear EQ
-
-<a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi">
-  <img src="https://raw.githubusercontent.com/Orpheane/perfect-ear-eq/main/assets/hero-home.png" alt="Actual Perfect Ear EQ Chrome extension interface and features" width="720">
-</a>
-
-A free Chrome audio extension built for people who love music. It brings real-time sound customization to your browser with a 7-band equalizer, presets, Auto EQ, and visual themes.
-
-[Get it on the Chrome Web Store](https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi) | [View the project](https://github.com/Orpheane/perfect-ear-eq)
-
-### Cozy Aquarium
-
-<a href="https://groups.google.com/g/cozy-aquarium">
-  <img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/cozy_aquarium.jpg" alt="Actual Cozy Aquarium productivity extension screenshot" width="720">
-</a>
-
-A cozy productivity extension that turns everyday tasks into a gentle, rewarding experience. I designed its gamification system to make staying organized feel calmer, more motivating, and more enjoyable.
-
-Currently welcoming testers before public release.
-
-[Join the tester group](https://groups.google.com/g/cozy-aquarium) | [View it on my portfolio](https://orpheane.github.io/#projects)
-
-### Rifty
-
-<a href="https://orpheane.github.io/#projects">
-  <img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/rifty.png" alt="Actual Rifty web platform screenshot" width="720">
-</a>
-
-A collaborative web platform connected to a Discord bot (Owner: [toskaman](https://github.com/toskaman/)), bringing community features into one interactive experience.
-
-I contribute to the web experience and new features alongside Rifty's owner and main developer.
-
-[Discover Rifty on my portfolio](https://orpheane.github.io/#projects)
+<table>
+  <tr>
+    <td width="124" align="center" valign="middle">
+      <a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi">
+        <img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/perfect_ear.png" width="108" alt="Perfect Ear EQ - actual project preview">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://github.com/Orpheane/perfect-ear-eq">Perfect Ear EQ</a></strong><br>
+      A free Chrome audio extension with real-time equalization, audio presets, and personalized sound controls.<br>
+      <sub><a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi">Chrome Web Store</a> | <a href="https://github.com/Orpheane/perfect-ear-eq">GitHub</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="124" align="center" valign="middle">
+      <a href="https://groups.google.com/g/cozy-aquarium">
+        <img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/cozy_aquarium.jpg" width="108" alt="Cozy Aquarium - actual project preview">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>Cozy Aquarium</strong><br>
+      A cozy productivity extension that makes daily tasks more motivating through gentle gamification and a relaxing underwater world.<br>
+      <sub><a href="https://groups.google.com/g/cozy-aquarium">Become a tester</a> | <a href="https://orpheane.github.io/#projects">Portfolio</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="124" align="center" valign="middle">
+      <a href="https://orpheane.github.io/#projects">
+        <img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/rifty.png" width="108" alt="Rifty - actual project preview">
+      </a>
+    </td>
+    <td valign="middle">
+      <strong>Rifty</strong><br>
+      A collaborative web platform connected to a Discord bot (Owner: <a href="https://github.com/toskaman/">toskaman</a>), bringing community features into one interactive experience.<br>
+      <sub><a href="https://orpheane.github.io/#projects">Explore the project</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## What I enjoy creating
 
