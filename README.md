@@ -12,28 +12,37 @@
 
 <sub>💗 CREATIVE DEVELOPER &nbsp; | &nbsp; INDIE MAKER &nbsp; | &nbsp; DIGITAL ARTIST</sub>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Orpheane/Orpheane/main/assets/orpheane-about.webp" width="100%" alt="A creative mind at work: Orpheane blends art, imagination and technology. Creative ideas, thoughtful design, personal technology and playful experiences on a violet cherry-blossom background.">
-</div>
+<br>
 
-<div align="center">
-  <a href="https://orpheane.github.io/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-EC70AA?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <a href="#selected-projects"><img alt="View my projects" src="https://img.shields.io/badge/View_my_projects-242036?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
-<details>
-<summary>Read my introduction</summary>
+<table>
+<tr>
+<td width="68%" valign="top">
 
 I'm a creative mind who loves turning ideas into things people can actually use. I blend **art, imagination, and technology** to create useful tools, browser extensions, web experiences, and playful digital projects.
 
 My journey started with music, photography, and visual design. Today, I learn by building, experimenting, and exploring AI-assisted development. I care about thoughtful details, intuitive interfaces, and projects with their own personality.
 
-- **Creative ideas** - That solve real problems
-- **Thoughtful design** - In every detail
-- **Personal technology** - Built with curiosity
-- **Playful experiences** - Made to feel enjoyable
+<a href="https://orpheane.github.io/"><img alt="Explore my portfolio" src="https://img.shields.io/badge/Explore_my_portfolio-EC70AA?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+<a href="#selected-projects"><img alt="View my projects" src="https://img.shields.io/badge/View_my_projects-242036?style=for-the-badge&logo=github&logoColor=white"></a>
 
-</details>
+</td>
+<td width="32%" valign="top">
+
+**♡ Creative ideas**  
+<sub>That solve real problems</sub>
+
+**✧ Thoughtful design**  
+<sub>In every detail</sub>
+
+**⌘ Personal technology**  
+<sub>Built with curiosity</sub>
+
+**☆ Playful experiences**  
+<sub>Made to feel enjoyable</sub>
+
+</td>
+</tr>
+</table>
 
 <a id="selected-projects"></a>
 
@@ -45,7 +54,7 @@ My journey started with music, photography, and visual design. Today, I learn by
 <tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi"><img src="https://raw.githubusercontent.com/Orpheane/orpheane.github.io/main/assets/perfect_ear.png" width="220" alt="Perfect Ear EQ - real app screenshot"></a>
+<a href="https://chromewebstore.google.com/detail/perfect-ear-eq/kigpbihaamfjdieahgdboignbjgohbbi"><img src="https://raw.githubusercontent.com/Orpheane/perfect-ear-eq/main/assets/hero-home.png" width="220" alt="Perfect Ear EQ - real app screenshot"></a>
 
 **[Perfect Ear EQ](https://github.com/Orpheane/perfect-ear-eq)**
 
