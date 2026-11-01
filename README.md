@@ -78,7 +78,7 @@ A cozy extension that makes daily tasks more motivating through gentle gamificat
 
 **Productivity | Gamification**
 
-[Chrome Web Store (coming soon)](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm) · [GitHub](https://github.com/Orpheane/cozy-aquarium)
+[Chrome Web Store](https://chromewebstore.google.com/detail/cozy-aquarium/laekafildhpmchaekeeglhcadhpcojgm) · [GitHub](https://github.com/Orpheane/cozy-aquarium)
 
 </td>
 <td width="33%" valign="top" align="center">
